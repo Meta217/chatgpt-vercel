@@ -119,8 +119,6 @@ API Key 由我自己免费提供，请不要滥用，不提供长期服务，请
 - 尽可能去优化已有的 Prompts，而不是重复添加。
 - 添加到结尾，我会定期整理。
 
-![](./assets/reward.gif)
-
 ## License
 
 [MIT](./LICENSE)
